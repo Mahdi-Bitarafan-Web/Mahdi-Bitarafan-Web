@@ -1,7 +1,13 @@
 - 👋 Hi, I’m Mahdi Bitarafan
-- 👀 I’m interested in web apps, programmming, doing projects and money!
-- 🌱 I’m currently learning all about front-end in areas such as JS frameworks and libraries and back-end NodeJS.
-- 💞️ I’m looking to collaborate on front-end web development projects.
+- 🚀 Code. Teach. Inspire. Repeat.
+- 👨‍🏫 English teacher by day, self-taught coder by night.
+- 🎸 Musician | 🎨 Creative Thinker | 🏊‍♂️ Swimmer
+- 🖥️ Building awesome React projects 🌟 and exploring AI, front-end magic, and beyond.
+- 📚 Lifelong learner diving into coding, languages, and anything I can get my hands on.
+- 💡 Motto: "No limit to curiosity, no end to learning."
+- ✨ Let’s create something extraordinary together!
+- 🌍 Based in Iran | 🌌 Dreaming globally
+- 📬 Reach out anytime!
 - 📫 You can reach me at ```m.bitarafan.webdev@gmail.com```
 
 <!---
